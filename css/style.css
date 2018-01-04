@@ -1,0 +1,49 @@
+.col-md-12{
+	background-color: #953E46;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+.col-md-12 h2{
+		color: white;
+		display: inline-block;
+}
+
+
+.col-md-12  li{
+	 display: inline-block;
+	 padding: 5px;
+
+}
+.find{
+	margin-left: 8%;
+	width: 350px;
+}
+
+.col-md-6 ul{
+	padding:0px;
+	margin: 0px;
+	color: white;
+}
+.col-md-6 li{
+	font-size: 15px;
+
+}
+#center .col-md-12 { 
+   height: 410px;
+   position: relative; 
+   padding-left: 0px;
+   padding-right: 0px;
+}
+#center .col-md-4{
+	background-color: #F4E3D1; 
+	height: 410px;
+	position: relative;
+}
+#center .col-md-3{
+	background-color:#F4E3D1; 
+	height: 200px;
+	position: absolute;
+    left: 35%;
+}
